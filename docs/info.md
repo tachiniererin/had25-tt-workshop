@@ -12,8 +12,7 @@ Here would be something if there was a design yet
 
 ## How to test
 
-Explain how to use your project
+Here would be the documentation how to test it
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Nothing yet
